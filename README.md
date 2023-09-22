@@ -4,4 +4,4 @@ KitabPremi is an online bookstore website made with HTML, CSS, JS, PHP and MySQL
 
 ## Results:
 
-![KitabPremi Home Page](outputs/kitabpremi_home_page.png)
+<img alt="KitabPremi Home Page" src="https://raw.githubusercontent.com/sabinmhx/kitabpremi/master/outputs/kitabpremi_home_page.png" width="200" height="400"/>
